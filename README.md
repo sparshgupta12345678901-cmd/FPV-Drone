@@ -1,16 +1,16 @@
-# FPV-Drone
+<h1>FPV-Drone</h1>h1>
 This is a place where my documentation for building my FPV drone will be stored.
 
 Description: This is my first project for STASIS and for this project I will be building a FPV Drone. I made this project because I have always been inndrested in drone technologies and thought this would be the perfect way to get started. While I would build this drone I would also be able to use this project to learn about how drones work and the technologies behind FPV drones. I would also be able to use my drone to get the thrill of flying without it costing thousands, with this drone I will also be able to get views that would be near to impossible to get without this kind of technology. 
 
-##**My frame picture:**
+<h1>**My frame picture:**</h1>h1>
 
 
 <img width="484" height="649" alt="Screenshot 2026-05-02 210238" src="https://github.com/user-attachments/assets/2aaad466-934c-4395-8949-5a36ff6eb6d8" />
 
 
 
-##**Some Soddering images:**
+<h1>**Some Soddering images:**</h1>h1>
 
 
 
@@ -36,29 +36,29 @@ Description: This is my first project for STASIS and for this project I will be 
 
 
 
-##**Here is the final image of the drone build:**
+<h1>**Here is the final image of the drone build:**</h1>h1>
 
 
 <img width="3024" height="4032" alt="IMG_4445 (1)" src="https://github.com/user-attachments/assets/ad98798a-3a8a-435c-95eb-450764b41514" />
 
 
 
-##**Soddering Template:**
+<h1>**Soddering Template:**</h1>h1>
 
 
 <img width="950" height="882" alt="Screenshot 2026-05-02 211052" src="https://github.com/user-attachments/assets/2bef91be-dede-42ee-b309-d23199d66524" />
 
 
 
-##**FPV Sim practice Pic:**
+<h1>**FPV Sim practice Pic:**</h1>h1>
 
 
 <img width="1919" height="1079" alt="Screenshot 2026-03-29 204048" src="https://github.com/user-attachments/assets/2c1a899a-0e15-43e3-b78a-b5d654395eed" />
 
 
-##**FPV Drone Build - Bill of Materials (BOM)**
+<h1>**FPV Drone Build - Bill of Materials (BOM)<h1>
 
-###**Prices**
+<h2>**Prices**</h2>
 
 | Category                     | Price |
 |-----------------------------|-------|
@@ -69,7 +69,7 @@ Description: This is my first project for STASIS and for this project I will be 
 | Charger and PSU             | $60  |
 | Soldering Products          | $60  |
 
-###**Specific Parts**
+<h2>**Specific Parts**</h2>h2>
 
 | Component            | Part Name |
 |----------------------|----------|
